@@ -1,0 +1,4 @@
+C:\Git\Passbundler\Passbundler\PassbundlerAPI\DistributedServices.Entitiesd\bin\Debug\DistributedServices.Entities.dll
+C:\Git\Passbundler\Passbundler\PassbundlerAPI\DistributedServices.Entitiesd\bin\Debug\DistributedServices.Entities.pdb
+C:\Git\Passbundler\Passbundler\PassbundlerAPI\DistributedServices.Entitiesd\obj\Debug\DistributedServices.Entities.dll
+C:\Git\Passbundler\Passbundler\PassbundlerAPI\DistributedServices.Entitiesd\obj\Debug\DistributedServices.Entities.pdb
